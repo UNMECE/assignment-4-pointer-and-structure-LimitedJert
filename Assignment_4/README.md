@@ -1,4 +1,6 @@
-The Code that works for this SKU are
+The following item numbers that works with the SKU given are listed below
+
+
 19282 – for "Reese's Cereal"
 79862 – for "Milk"
 10984 – for "Chips"
